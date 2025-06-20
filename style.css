@@ -124,7 +124,7 @@ button {
 header {
     width: 100%;
     height: 600px;
-    background-image: url(./images/jana-tafel.jpg);
+    background-image: url(images/jana-tafel.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -196,17 +196,17 @@ header nav ul {
 
 .over-card:nth-of-type(1),
 .professionals-card:nth-of-type(1) {
-    background-image: url(/images/yellow-squiggle-about.svg);
+    background-image: url(images/yellow-squiggle-about.svg);
 }
 
 .over-card:nth-of-type(2),
 .professionals-card:nth-of-type(2) {
-    background-image: url(/images/red-squiggle-about.svg);
+    background-image: url(images/red-squiggle-about.svg);
 }
 
 .over-card:nth-of-type(3),
 .professionals-card:nth-of-type(3) {
-    background-image: url(/images/green-squiggle-about.svg);
+    background-image: url(images/green-squiggle-about.svg);
 }
 
 .over-card img {
@@ -375,7 +375,7 @@ footer {
 }
 
 .gevolgen-card:nth-of-type(3n+1) {
-    background-image: url(/images/yellow-squiglge.svg);
+    background-image: url(images/yellow-squiglge.svg);
 
     /* color: var(--color-yellow-700);
     border: .5rem solid var(--color-yellow-600);
@@ -383,14 +383,14 @@ footer {
 }
 
 .gevolgen-card:nth-of-type(3n+2) {
-    background-image: url(/images/green-squiggle.svg);
+    background-image: url(images/green-squiggle.svg);
     /* color: var(--color-green-700);
     border: .5rem solid var(--color-green-600);
     background-color: var(--color-green-500);*/
 }
 
 .gevolgen-card:nth-of-type(3n) {
-    background-image: url(/images/red-squiggle.svg);
+    background-image: url(images/red-squiggle.svg);
     /* color: var(--color-red-700);
     border: .5rem solid var(--color-red-600);
     background-color: var(--color-red-500); */
